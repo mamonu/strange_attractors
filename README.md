@@ -1,2 +1,2 @@
 # strange_attractors
-monkeying around with chaos equations
+:monkey: monkeying around with chaos equations :monkey:
